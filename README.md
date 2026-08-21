@@ -8,7 +8,7 @@
 
 I build production AI systems: agentic frameworks, MCP servers, RAG pipelines, and the infrastructure around them. Creator of [agent-almanac](https://pjt222.github.io/agent-almanac/) — an open-source library of executable AI skills, agents, and teams built on the [Agent Skills open standard](https://agentskills.io). CRAN package author ([putior](https://cran.r-project.org/package=putior)). 5 peer-reviewed publications spanning ML methodology and organic chemistry — including a cover-feature paper in *Angewandte Chemie* (2012, issue 30, DE + Int. Ed.) — 128 citations, h-index 5.
 
-**Daily driver:** Claude Code with Opus — agentic MCP workflows across R, Python, Rust, and JS codebases. The open-source [agent-almanac](https://pjt222.github.io/agent-almanac/) captures how I organize skills, agents, and multi-agent teams for this kind of work.
+**Daily driver:** Claude Code, Pi, Hermes and custom Harnesses — agentic MCP workflows across R, Python, Rust, and JS codebases. The open-source [agent-almanac](https://pjt222.github.io/agent-almanac/) captures how I organize skills, agents, and multi-agent teams for this kind of work.
 
 Available for 100% remote AI engineering roles within Europe. Relocating to Austria in Autumn 2026.
 
@@ -23,7 +23,7 @@ Available for 100% remote AI engineering roles within Europe. Relocating to Aust
 
 ## Tech Stack
 
-**AI daily driver:** Claude Code (Opus) — MCP orchestration, polyglot agent-driven workflow
+**AI daily driver:** Claude Code, Pi, Hermes — MCP orchestration, polyglot agent-driven workflow
 **Agentic / LLM:** MCP, Anthropic API, Sentence Transformers, Agent Skills open standard, RAG
 **ML:** tidymodels, scikit-learn, xgboost, PyTorch, diffusion models
 **Languages:** R, Python, SQL, TypeScript, Rust, Bash
