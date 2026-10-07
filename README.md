@@ -6,11 +6,11 @@
 
 *ML Engineer · Data Scientist · Chemist (Diplom-Chemiker) · Maille Artisan*
 
-I build production AI systems: agentic frameworks, MCP servers, RAG pipelines, and the infrastructure around them. Creator of [agent-almanac](https://pjt222.github.io/agent-almanac/) — an open-source library of executable AI skills, agents, and teams built on the [Agent Skills open standard](https://agentskills.io). CRAN package author ([putior](https://cran.r-project.org/package=putior)). 5 peer-reviewed publications spanning ML methodology and organic chemistry — including a cover-feature paper in *Angewandte Chemie* (2012, issue 30, DE + Int. Ed.) — 128 citations, h-index 5.
+I build production AI systems: agentic frameworks, MCP servers, RAG pipelines, and the infrastructure around them. Creator of [agent-almanac](https://pjt222.github.io/agent-almanac/) — an open-source library of executable AI skills, agents, and teams built on the [Agent Skills open standard](https://agentskills.io). CRAN package author ([putior](https://cran.r-project.org/package=putior)). 5 peer-reviewed publications spanning ML methodology and organic chemistry — including a cover-feature paper in *Angewandte Chemie* (2012, issue 30, DE + Int. Ed.) — 139 citations, h-index 5.
 
 **Daily driver:** Claude Code, Pi, Hermes and custom Harnesses — agentic MCP workflows across R, Python, Rust, and JS codebases. The open-source [agent-almanac](https://pjt222.github.io/agent-almanac/) captures how I organize skills, agents, and multi-agent teams for this kind of work.
 
-Available for 100% remote AI engineering roles within Europe. Relocating to Austria in Autumn 2026.
+Available for 100% remote AI engineering roles in European time zones. Based in Austria.
 
 ## Current Focus
 
@@ -38,7 +38,7 @@ Available for 100% remote AI engineering roles within Europe. Relocating to Aust
 
 - [LinkedIn](https://www.linkedin.com/in/philipp-thoss-148a2a1ab/)
 - [Hugging Face](https://hf.co/pjt222) — spaces and datasets
-- [Google Scholar](https://scholar.google.de/citations?user=cy8M1ycAAAAJ) (128 citations, h-index 5)
+- [Google Scholar](https://scholar.google.de/citations?user=cy8M1ycAAAAJ) (139 citations, h-index 5)
 - [ORCID](https://orcid.org/0000-0002-4672-2792)
 - [Kaggle](https://www.kaggle.com/pjt222)
 
