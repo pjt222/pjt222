@@ -17,7 +17,7 @@ Available for 100% remote AI engineering roles in European time zones. Based in 
 - **Agentic AI frameworks** — skill definitions, multi-agent coordination patterns, validation with step-level error recovery
 - **MCP server development** — including [cross-review-mcp](https://github.com/pjt222/cross-review-mcp) for inter-agent artifact exchange
 - **Autoregressive → diffusion model conversion** (`ez-ar2diff`) — *currently in stealth mode.* Ping for a teaser.
-- **GPU kernel engineering** — hand-tuned [CUDA/SASS kernels](https://github.com/pjt222/bare-metal)
+- **GPU kernel engineering** — [CUDA kernels](https://github.com/pjt222/bare-metal) for tensor-core GEMM, attention and convolution, profiled with Nsight Compute and analysed at SASS level
 - **Production LLM integrations** — RAG pipelines, embedding retrieval, Sentence Transformers
 - **Open-source R package development** — [putior](https://github.com/pjt222/putior) (CRAN), [jigsawR](https://github.com/pjt222/jigsawR)
 
